@@ -16,10 +16,10 @@
    - [View Certificate](certificates/Foundations%20of%20Cybersecurity.pdf)
 
 6. **Python Full Stack 480** by Byte Academy - May 2018  
-   - [View Certificate](certificates/Python%20Full%20Stack%20480.pdf)
+   - [View Certificate](certificates/Python%20Full%20Stack%20480%20-%20Byte%20Academy.pdf)
 
 7. **Python Foundation 40** by Byte Academy - February 2018  
-   - [View Certificate](certificates/Python%20Foundation%2040.pdf)
+   - [View Certificate](certificates/Python%20Foundation%2040%20-%20Byte%20Academy.pdf)
 
 ## Purpose 🎯
 
