@@ -42,4 +42,4 @@ If you have any questions or wish to discuss my certifications, feel free to rea
 
 ---
 
-Thank you for taking the time to review my certifications!
+Thank you for taking the time to review my certifications! 🚀
