@@ -37,8 +37,8 @@ This repository will be updated periodically as I complete new certifications.
 
 If you have any questions or wish to discuss my certifications, feel free to reach out:
 
-- **Email**: [kapilowal@gmail.com]  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/kapilowal)
+- **Email**: kapilowal@gmail.com  
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/kapilowal)
 
 ---
 
