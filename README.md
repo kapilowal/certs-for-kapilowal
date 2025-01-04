@@ -1,24 +1,30 @@
 ## Certifications 🎓
 
-1. **GitHub Foundations Certification** by LinkedIn Learning - October 2024  
+1. **Webflow Collection and CMS** by LinkedIn Learning - January 2025  
+   - [View Certificate](certificates/Webflow%20Collections%20and%20CMS.pdf)
+
+2. **Learning Webflow** by LinkedIn Learning - January 2025  
+   - [View Certificate](certificates/Learning%20Webflow.pdf)
+
+3. **GitHub Foundations Certification** by LinkedIn Learning - October 2024  
    - [View Certificate](certificates/GitHub%20Foundations%20Certification.pdf)
 
-2. **Cold Calling: The First Seven Seconds** by LinkedIn Learning - September 2024  
+4. **Cold Calling: The First Seven Seconds** by LinkedIn Learning - September 2024  
    - [View Certificate](certificates/Cold%20Calling%20The%20First%20Seven%20Seconds.pdf)
 
-3. **Human Resources: Compensation and Benefits** - July 2024  
+5. **Human Resources: Compensation and Benefits** - July 2024  
    - [View Certificate](certificates/Human%20Resources%20Compensation%20and%20Benefits.pdf)
 
-4. **Confident Communication for Introverts** by LinkedIn Learning - July 2024  
+6. **Confident Communication for Introverts** by LinkedIn Learning - July 2024  
    - [View Certificate](certificates/Confident%20Communication%20for%20Introverts.pdf)
 
-5. **Foundations of Cybersecurity** by Google - June 2023  
+7. **Foundations of Cybersecurity** by Google - June 2023  
    - [View Certificate](certificates/Foundations%20of%20Cybersecurity.pdf)
 
-6. **Python Full Stack 480** by Byte Academy - May 2018  
+8. **Python Full Stack 480** by Byte Academy - May 2018  
    - [View Certificate](certificates/Python%20Full%20Stack%20480%20-%20Byte%20Academy.pdf)
 
-7. **Python Foundation 40** by Byte Academy - February 2018  
+9. **Python Foundation 40** by Byte Academy - February 2018  
    - [View Certificate](certificates/Python%20Foundation%2040%20-%20Byte%20Academy.pdf)
 
 ## Purpose 🎯
